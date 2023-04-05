@@ -21,6 +21,7 @@ End the program.
 #Program to find the solution for the given linear equations.
 #Developed by: KEERTHI VASAN A
 #RegisterNumber: 212222240048
+
 import numpy as np
 A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
